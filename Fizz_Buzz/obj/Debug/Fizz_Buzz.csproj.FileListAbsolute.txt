@@ -1,0 +1,7 @@
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\bin\Debug\Fizz_Buzz.exe.config
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\bin\Debug\Fizz_Buzz.exe
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\bin\Debug\Fizz_Buzz.pdb
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\obj\Debug\Fizz_Buzz.csprojAssemblyReference.cache
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\obj\Debug\Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\obj\Debug\Fizz_Buzz.exe
+C:\CC6\aspnet\Labs\Fizz_Buzz\Fizz_Buzz\obj\Debug\Fizz_Buzz.pdb
